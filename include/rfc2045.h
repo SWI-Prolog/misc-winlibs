@@ -4,7 +4,7 @@
 */
 
 /*
-** $Id: rfc2045.h,v 1.16 2000/04/10 22:42:02 mrsam Exp $
+** $Id: rfc2045.h,v 1.1 2005/05/22 20:07:44 jan Exp $
 */
 #ifndef	rfc2045_h
 #define	rfc2045_h
